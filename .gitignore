@@ -1,3 +1,10 @@
 .env
 utils/data/claims/claims.csv
 utils/data/claims/claims_short.csv
+/.idea/.gitignore
+/.idea/azure-automl-claims.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml

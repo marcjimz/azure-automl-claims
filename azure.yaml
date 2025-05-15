@@ -1,0 +1,14 @@
+name: azure-automl-claims
+
+subscription: ${AZURE_SUBSCRIPTION_ID}
+resourceGroup: ${AZURE_RESOURCE_GROUP}
+
+infra:
+  provider: bicep
+  path: infra
+  module: main
+  parameters:
+    # only parameter you still need to drive explicitly:
+    name: ${AZURE_ENV_NAME}
+
+services: {}

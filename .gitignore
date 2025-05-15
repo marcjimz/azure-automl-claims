@@ -1,2 +1,3 @@
 .env
-utils/data/claims/claims*.csv
+utils/data/claims/claims.csv
+utils/data/claims/claims_short.csv

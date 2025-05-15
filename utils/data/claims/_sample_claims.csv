@@ -1,0 +1,2 @@
+ClaimNumber,long_term_3y,SOJ,DOI,RxDateOrDispenseDate,active_1m,active_2m,active_3m,active_4m,TransactionTypeInd,ApportionedAmount,Qty,DaysSupply,PrescriberNPI,NABPNumber,GPI,gpi_2,cl_injury_type_code,cl_body_part,provider_specialty
+000000000001,1,KY,2020-06-29,2024-06-26,0,0,0,0,1,12.2,60,30,1555555556,5555555,65555555555555,55,55,55,Nurse Practitioner
